@@ -67,7 +67,7 @@ function generateHeader(): string {
 function generateGalleryCTA(): string {
   return `## 🌐 View in Web Gallery
 
-**[👉 Browse on youmind.com/nano-banana-pro-prompts](https://youmind.com/nano-banana-pro-prompts)**
+**[👉 Browse on YouMind Nano Banana Pro Prompts Gallery](https://youmind.com/nano-banana-pro-prompts)**
 
 Why use our gallery?
 
@@ -156,6 +156,11 @@ function generateAllPromptsSection(regular: Prompt[], hiddenCount: number): stri
     md += `### 🎯 ${hiddenCount} more prompts not shown here\n\n`;
     md += `Due to GitHub's content length limitations, we can only display the first ${MAX_REGULAR_PROMPTS_TO_DISPLAY} regular prompts in this README.\n\n`;
     md += `**👉 [View all prompts in our Web Gallery](https://youmind.com/nano-banana-pro-prompts)**\n\n`;
+    md += `The gallery features:\n\n`;
+    md += `✨ Beautiful masonry grid layout\n\n`;
+    md += `🔍 Full-text search and filters\n\n`;
+    md += `🌍 16+ languages support\n\n`;
+    md += `📱 Mobile-optimized experience\n\n`;
     md += `</div>\n\n`;
     md += `---\n\n`;
   }
