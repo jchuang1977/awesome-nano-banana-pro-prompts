@@ -75,9 +75,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **496** |
+| 📝 Total Prompts | **497** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Tuesday, November 25, 2025 at 1:22:33 PM UTC** |
+| 🔄 Last Updated | **Wednesday, November 26, 2025 at 12:21:23 PM UTC** |
 
 </div>
 
@@ -8167,7 +8167,7 @@ Imita el siguiente estereograma usando la técnica estereoscopía, pero con el {
 
 <div align="center">
 
-### 🎯 291 more prompts not shown here
+### 🎯 292 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 200 regular prompts in this README.
 
@@ -8230,6 +8230,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T13:22:33.817Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-26T12:21:24.040Z</sub>
 
 </div>
